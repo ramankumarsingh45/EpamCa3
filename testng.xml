@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Github Login Suite" verbose="1" >
+    <parameter name="browser" value="chrome" />
+    <parameter name="url" value="https://github.com" />
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/RAMAN KUMAR SINGH/IdeaProjects/EpamCa3/src/test/java/org/example/AppTest.java">
+        <classes/>
+    </test>
+</suite>
